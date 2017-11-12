@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IntermediateLogin</string>
+    <string name="Login">Tech Tais Awesome New App</string>
+    <string name="button_login">Login</string>
+    <string name="button_cancel">Cancel</string>
+</resources>
